@@ -11,11 +11,7 @@ const Blog = () => {
 
         if(!markdown){
             async function fetchBlog (){
-                const blogPath = require(`../blogs/${blog}.md`);
-
-                await fetch(blogPath).then(r => {return r.text()}).then(text =>  setMarkdown(text));
-
-
+                await fetch('https://raw.githubusercontent.com/p-lau/rhythm-game/master/src/blogs/team-document.md').then(r => {return r.text()}).then(text =>  setMarkdown(text));
             }
             fetchBlog().then(r => null);
         }

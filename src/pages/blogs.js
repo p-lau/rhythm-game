@@ -1,4 +1,5 @@
 import React from "react";
+import {Link} from "react-router-dom";
 
 const Blogs = () => {
     return (
@@ -7,7 +8,7 @@ const Blogs = () => {
                 <h1>Blogs</h1>
             </header>
             <main>
-                lol
+                <Link to='/blogs/team-document'>Team Document</Link>
             </main>
         </div>
     )
