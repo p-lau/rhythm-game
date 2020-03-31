@@ -1,10 +1,26 @@
-import React from "react";
-import ReactMarkdown from "react-markdown";
+import React, {useEffect, useState} from "react";
+import Markdown from "react-markdown";
+import {useParams} from "react-router";
 
-const Blog = props => {
+const Blog = () => {
+    const { blog } = useParams();
+    const [markdown, setMarkdown] = useState('');
+
+    useEffect(()=>{
+
+        if(!markdown){
+            async function fetchBlog (){
+                const blogPath = require(`../blogs/${blog}.md`);
+
+                await fetch(blogPath).then(r => {return r.text()}).then(text =>  setMarkdown(text));
+
+            }
+            fetchBlog().then(r => null);
+        }
+    }, [blog, markdown]);
 
     return (
-        <ReactMarkdown source={props.src}/>
+        <Markdown source={markdown}/>
     )
 };
 
