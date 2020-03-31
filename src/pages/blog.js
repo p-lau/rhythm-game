@@ -1,6 +1,7 @@
 import React, {useEffect, useState} from "react";
 import Markdown from "react-markdown";
 import {useParams} from "react-router";
+import '../blogs/team-document.md';
 
 const Blog = () => {
     const { blog } = useParams();
@@ -13,6 +14,7 @@ const Blog = () => {
                 const blogPath = require(`../blogs/${blog}.md`);
 
                 await fetch(blogPath).then(r => {return r.text()}).then(text =>  setMarkdown(text));
+
 
             }
             fetchBlog().then(r => null);
