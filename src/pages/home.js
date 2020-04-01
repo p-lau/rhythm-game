@@ -1,5 +1,5 @@
 import React from "react";
-import logo from '../images/inverted24.png';
+import logo from '../media/images/inverted24.png';
 
 const Home = () => {
     return (

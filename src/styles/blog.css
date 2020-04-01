@@ -18,12 +18,8 @@
     background-color: rgba(255,255,255,0.25);
 }
 
-.blog a {
-    padding: 1rem;
-    border: 0 solid rgba(0, 0, 0, 0);
-    border-bottom-width: 0.2rem;
+h1{
+    font-family: "Uni Sans Heavy", sans-serif;
 }
 
-.blog a:hover {
-    border-color: lightskyblue;
-}
+img{ max-width: 30rem}

@@ -47,4 +47,5 @@
 
 .navbar .active {
     color: white;
+    border-color: lightskyblue;
 }

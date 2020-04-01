@@ -1,16 +1,15 @@
-# Team Document
-Our team name is 2/4
+# Team 2/4
 ***
 ## Team Members
 
 | Name|Email
-|----|---
-|Cem Alemdar|calemdar@wpi.edu
-|Panhavuth Lau|plau@wpi.edu
-|Shiyi Liu|sliu4@wpi.edu
-|Sarah Love|smlove@wpi.edu
-|Gavin Taylor|gtaylor@wpi.edu
-|Alex Tian|atian@wpi.edu
+|---|---
+|Cem Alemdar|[calemdar@wpi.edu](mailto:calemdar@wpi.edu)
+|Panhavuth Lau|[plau@wpi.edu](mailto:plau@wpi.edu)
+|Shiyi Liu|[sliu4@wpi.edu](mailto:sliu4@wpi.edu)
+|Sarah Love|[smlove@wpi.edu](mailto:smlove@wpi.edu)
+|Gavin Taylor|[gtaylor@wpi.edu](mailto:gtaylor@wpi.edu)
+|Alex Tian|[atien@wpi.edu](mailto:atien@wpi.edu)
 ***
 ## Team Roles
 |Role|People

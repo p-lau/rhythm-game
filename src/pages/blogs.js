@@ -10,6 +10,7 @@ const Blogs = () => {
             </header>
             <main>
                 <Link to='/blogs/team-document'>Team Document</Link>
+                <Link to='/blogs/game-treatment'>Game Treatment</Link>
             </main>
         </div>
     )

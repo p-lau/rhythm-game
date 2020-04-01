@@ -11,12 +11,7 @@
 
 .page main {
     margin: auto;
-    max-width: 50rem;
-}
-
-.page section {
-    margin: auto;
-    max-width: 50rem;
+    max-width: 60rem;
 }
 
 .carousel {

@@ -27,6 +27,11 @@ code {
 a { color: inherit; text-decoration: none; transition: 0.2s ease-in }
 a:hover {color: lightskyblue}
 
+section {
+  margin: auto;
+  max-width: 60rem;
+}
+
 /* Scroll bar*/
 
 /* width */
