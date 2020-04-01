@@ -1,14 +1,17 @@
 # Team Document
 Our team name is 2/4
+***
 ## Team Members
-|Name|Email 
-|---|---
+
+| Name|Email
+|----|---
 |Cem Alemdar|calemdar@wpi.edu
 |Panhavuth Lau|plau@wpi.edu
 |Shiyi Liu|sliu4@wpi.edu
 |Sarah Love|smlove@wpi.edu
 |Gavin Taylor|gtaylor@wpi.edu
 |Alex Tian|atian@wpi.edu
+***
 ## Team Roles
 |Role|People
 |---|---
@@ -45,9 +48,10 @@ This person or these group of people will produce audio-related development
 This person or these group of people will manage audiovisual timing (because this is a rhythm game)
 ### Documentation and Web development
 These group of people will work to display documentation of their progress and projects on the web
+***
 ## Strengths and Weaknesses
 |Strengths|Weaknesses|
 |---|---|
 |Audio|3D Animation
 |Environmental Design|Unreal Engine
-|Version Control
+|Version Control |

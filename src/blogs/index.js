@@ -1,1 +1,0 @@
-export {default as TeamDocument} from 'team-document.md'

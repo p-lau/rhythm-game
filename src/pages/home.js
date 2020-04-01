@@ -1,13 +1,13 @@
 import React from "react";
+import logo from '../images/inverted24.png';
 
 const Home = () => {
     return (
         <div className="page">
             <header>
-                <h1>Welcome!</h1>
+                <img id={'logo'} src={logo} alt={'logo'}/>
             </header>
             <main>
-                lol
             </main>
         </div>
     )

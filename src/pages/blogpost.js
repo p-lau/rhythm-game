@@ -2,7 +2,9 @@ import React, {useEffect, useState} from "react";
 import Markdown from "react-markdown";
 import {useParams} from "react-router";
 
-const Blog = () => {
+import '../styles/blog.css'
+
+const Blogpost = () => {
     const { blog } = useParams();
     const [markdown, setMarkdown] = useState('');
 
@@ -17,8 +19,11 @@ const Blog = () => {
     }, [blog, markdown]);
 
     return (
-        <Markdown source={markdown}/>
+        <div className='page blog'>
+            <header><h1>{blog}</h1></header>
+            <main><Markdown source={markdown}/></main>
+        </div>
     )
 };
 
-export default Blog;
+export default Blogpost;

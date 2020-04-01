@@ -1,9 +1,9 @@
 import React from "react";
+import '../styles/footer.css';
 
 const Footer = () => {
     return (
         <footer>
-            We are team 2/4
         </footer>
     )
 };

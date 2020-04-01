@@ -1,0 +1,29 @@
+.blog table {
+    align-self: center;
+    text-align: left;
+    margin: auto;
+    width: 100%;
+    border-collapse:collapse
+}
+
+.blog th, .blog td {
+    padding: 0.75rem 0.5rem;
+}
+
+.blog th {
+    background-color: rgba(0,0,0,0.5);
+}
+
+.blog tr:nth-child(2n) {
+    background-color: rgba(255,255,255,0.25);
+}
+
+.blog a {
+    padding: 1rem;
+    border: 0 solid rgba(0, 0, 0, 0);
+    border-bottom-width: 0.2rem;
+}
+
+.blog a:hover {
+    border-color: lightskyblue;
+}

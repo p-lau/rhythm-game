@@ -1,8 +1,18 @@
 /* Navigation bar */
-.navbar nav {
-    position: fixed;
+.navbar {
+    position: sticky;
+    font-weight: bold;
+    backdrop-filter: blur(1px);
+    background-color: rgba(0,0,0,0);
     top: 0;
     width: 100%;
+}
+
+#brand {
+    height: auto;
+    width: auto;
+    max-height: 2rem;
+    color: white;
 }
 
 .navbar ul {
@@ -11,23 +21,30 @@
     width: 100%;
     height: auto;
     padding: 0;
-    background-color: #333;
     display: flex;
 }
 
-.navbar li:first-child {
-    margin-right: auto;
-}
-
 .navbar li a {
+    transition: 250ms ease-in;
     display: block;
-    color: white;
+    color: gray;
     text-align: center;
-    padding: 1rem;
-    margin-top: auto;
+    padding: 0.5rem;
+    margin: 0.5rem 0.5rem 0.5rem 0;
+    border: 0 solid rgba(0, 0, 0, 0);
+    border-bottom-width: 0.2rem;
     text-decoration: none;
 }
+.navbar li:first-child {
+    margin: 0 auto 0 0.5rem;
+    font-family: "Uni Sans Heavy", sans-serif;
+}
 
-.navbar li a:hover {
-    background-color: #111;
+.navbar li a:hover:not(#brand) {
+    color: white;
+    border-color: lightskyblue;
+}
+
+.navbar .active {
+    color: white;
 }
