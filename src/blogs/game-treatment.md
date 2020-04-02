@@ -35,7 +35,7 @@ Hack and slash, attacks based on the music, miss attacks if completely off beat,
 Combo mechanics are similar to Patapon Fever mode, where successfully playing to the rhythm allows for benefits if maintained
 ![Patapon Fever mode](https://orig00.deviantart.net/fd4a/f/2017/300/8/7/fever_worm_animation__by_topaz_the_crosscat73-dbrvyfv.gif)
 ### Asset List
-https://docs.google.com/spreadsheets/d/1IWsD39IKXF7yvXw522N-t9l_Fj_VydG91XINBpBbc3A/edit?usp=sharing
+[Artistic and Technical Assets](https://docs.google.com/spreadsheets/d/1IWsD39IKXF7yvXw522N-t9l_Fj_VydG91XINBpBbc3A/edit?usp=sharing)
 ### Technical Elements
 Scoring and damage system that takes the music into consideration, basic enemy AI with path-finding and attacks, positional audio
 ### Style Guide

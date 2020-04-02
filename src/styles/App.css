@@ -24,12 +24,27 @@ code {
     monospace;
 }
 
-a { color: inherit; text-decoration: none; transition: 0.2s ease-in }
-a:hover {color: lightskyblue}
+a {
+  color: lightskyblue;
+  text-decoration: none;
+  transition: 0.2s ease-in;
+
+}
+a:hover {
+  color: white
+}
 
 section {
   margin: auto;
   max-width: 60rem;
+}
+
+.carousel {
+
+}
+
+h1{
+  font-family: "Uni Sans Heavy", sans-serif;
 }
 
 /* Scroll bar*/

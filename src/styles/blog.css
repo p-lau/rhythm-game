@@ -18,8 +18,4 @@
     background-color: rgba(255,255,255,0.25);
 }
 
-h1{
-    font-family: "Uni Sans Heavy", sans-serif;
-}
-
-img{ max-width: 20rem}
+.blog img{ max-width: 20rem}
