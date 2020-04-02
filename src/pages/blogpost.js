@@ -11,8 +11,16 @@ const Blogpost = () => {
     useEffect(()=>{
         if(!markdown){
             async function fetchBlog (){
-                let blogPath = require(`../blogs/${blog}.md`);
-                await fetch(blogPath).then(r => {return r.text()}).then(text =>  setMarkdown(text));
+                try {
+                    // Look for blog
+                    const blogPath = require(`../blogs/${blog}.md`);
+                    await fetch(blogPath).then(r => {return r.text()}).then(text =>  setMarkdown(text));
+                } catch (e) {
+                    // If blog is not found
+                    console.log(e);
+                    const blogPath = require(`../blogs/404.md`);
+                    await fetch(blogPath).then(r => {return r.text()}).then(text =>  setMarkdown(text));
+                }
             }
             fetchBlog().then(r => null);
         }

@@ -1,0 +1,17 @@
+.footer {
+    background-color: #23272A;
+    padding: 2rem;
+    vertical-align: center;
+    align-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer footer {
+    width: 100%;
+    align-content: center;
+}
+
+.footer p{
+    text-align: center;
+}

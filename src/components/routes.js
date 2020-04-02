@@ -1,6 +1,6 @@
 import React from "react";
 import {Route, Switch} from "react-router";
-import {Home, About, Blogs, Blog} from '../pages'
+import {Home, About, Blogs, Blog, Error} from '../pages'
 import '../styles/page.css'
 
 const Routes = () => {
@@ -11,6 +11,7 @@ const Routes = () => {
             <Route exact path="/home/" component={Home}/>
             <Route exact path="/blogs/" component={Blogs}/>
             <Route exact path="/blogs/:blog" component={Blog}/>
+            <Route path ="*"><Error/></Route>
         </Switch>
     )
 };

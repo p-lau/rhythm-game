@@ -2,23 +2,25 @@
 By **Team 2/4**
 ***
 ## The Team
-| Team Leader |
-| --- |
-| Cem Alemdar |
+Team Leader |
+---|
+Cem Alemdar|
 
-| IMGD 4000 Tech| Roles | Email
-| ---|---|---
-| Cem Alemdar|Documentation, Website development, Audiovisual Synchronization|[calemdar@wpi.edu](mailto:calemdar@wpi.edu)
-| Panhavuth Lau|Documentation, Website development, Audiovisual Synchronization, Sound Engineer|[plau@wpi.edu](mailto:plau@wpi.edu)
-| Shiyi Liu|Interactive Design, Technical Artist, Sound Engineer|[sliu4@wpi.edu](mailto:sliu4@wpi.edu)
-| Alex Tian|Lead Developer, Gameplay Programmer|[atien@wpi.edu](mailto:atien@wpi.edu)
+ IMGD 4000 Tech| Roles | Email
+---|---|---
+Cem Alemdar|Documentation, Website development, Audiovisual Synchronization|[calemdar@wpi.edu](mailto:calemdar@wpi.edu)
+Panhavuth Lau|Documentation, Website development, Audiovisual Synchronization, Sound Engineer|[plau@wpi.edu](mailto:plau@wpi.edu)
+Shiyi Liu|Interactive Design, Technical Artist, Sound Engineer|[sliu4@wpi.edu](mailto:sliu4@wpi.edu)
+Alex Tian|Lead Developer, Gameplay Programmer|[atien@wpi.edu](mailto:atien@wpi.edu)
 
-| IMGD 4500 Art| Roles | Email
-| ---|---|---
-| Sarah Love|Character Artist, Sound Engineer |[smlove@wpi.edu](mailto:smlove@wpi.edu)
-| Gavin Taylor|Environmental Artist, Game Designer|[gtaylor@wpi.edu](mailto:gtaylor@wpi.edu)
+IMGD 4500 Art| Roles | Email
+---|---|---
+Sarah Love|Character Artist, Sound Engineer |[smlove@wpi.edu](mailto:smlove@wpi.edu)
+Gavin Taylor|Environmental Artist, Game Designer|[gtaylor@wpi.edu](mailto:gtaylor@wpi.edu)
+***
 ## Elevator Pitch
 Protect your camp friends from what lurks at night... by play this this rhythm arcade hack-'n-bash RPG game! Play as a musician and stir away your fear!
+***
 ## Detailed Description
 ### Setting
 Takes place at a modern night-time campfire with friends.
