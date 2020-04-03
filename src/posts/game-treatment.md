@@ -49,7 +49,7 @@ The overall mood, angle, and colors would be close to *The Last Campfire*
 
 and
 
-![Campfire](https://floriandcp.itch.io/campfire-web)
+![Campfire](https://img.itch.zone/aW1hZ2UvMjIwNTUvODc2NTIucG5n/original/hUjaRu.png)
 
 The shadow enemies should be similar to *A Hat in Time*'s The Snatcher.
  
