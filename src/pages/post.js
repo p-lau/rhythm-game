@@ -3,9 +3,8 @@ import Markdown from "react-markdown";
 import {useParams} from "react-router";
 
 import '../styles/blog.css'
-import Loading from "./loading";
-import Error from "./error";
-import {POSTS} from "../components/constants";
+import {Loading, Error} from "../pages";
+import {POSTS} from "../components";
 
 const Post = () => {
     const { post } = useParams();
@@ -31,7 +30,6 @@ const Post = () => {
     let blogpost = {};
     if(markdown){
         blogpost = POSTS.find(a => a.post === post);
-        console.log(blogpost)
     }
 
     return ( error ? <Error/> :

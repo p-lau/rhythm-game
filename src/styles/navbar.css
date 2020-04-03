@@ -8,7 +8,7 @@
     width: 100%;
 }
 
-#brand {
+.bar #brand {
     height: auto;
     width: auto;
     max-height: 2rem;

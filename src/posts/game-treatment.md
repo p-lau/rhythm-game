@@ -6,7 +6,7 @@ Team Leader |
 ---|
 Cem Alemdar|
 
- IMGD 4000 Tech| Roles | Email
+IMGD 4000 Tech| Roles | Email
 ---|---|---
 Cem Alemdar|Documentation, Website development, Audiovisual Synchronization|[calemdar@wpi.edu](mailto:calemdar@wpi.edu)
 Panhavuth Lau|Documentation, Website development, Audiovisual Synchronization, Sound Engineer|[plau@wpi.edu](mailto:plau@wpi.edu)

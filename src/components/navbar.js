@@ -5,7 +5,7 @@ import '../styles/navbar.css'
 const Navbar = () => {
     return (
         <div className="bar">
-            <section>
+            <main>
                 <nav>
                     <ul>
                         <li><Link to="/" id={'brand'}>Team 2/4</Link></li>
@@ -14,7 +14,7 @@ const Navbar = () => {
                         <li><NavLink to="/about" activeClassName='active'>About</NavLink></li>
                     </ul>
                 </nav>
-            </section>
+            </main>
         </div>
 
     )

@@ -5,13 +5,9 @@
 }
 
 .page header {
-    padding: 5rem 1rem;;
+    padding: 5rem 1rem;
+    display: block;
     text-align: center;
-}
-
-.page main {
-    margin: auto;
-    max-width: 60rem;
 }
 
 #logo {
