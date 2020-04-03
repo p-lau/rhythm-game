@@ -9,7 +9,6 @@ const About = () => {
             </header>
             <main>
                 <section>
-                    {PROFILES}
                 </section>
             </main>
         </div>
