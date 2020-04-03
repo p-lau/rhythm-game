@@ -19,7 +19,7 @@ Sarah Love|Character Artist, Sound Engineer |[smlove@wpi.edu](mailto:smlove@wpi.
 Gavin Taylor|Environmental Artist, Game Designer|[gtaylor@wpi.edu](mailto:gtaylor@wpi.edu)
 ***
 ## Elevator Pitch
-Protect your camp friends from what lurks at night... by play this this rhythm arcade hack-'n-bash RPG game! Play as a musician and stir away your fear!
+Protect your camp friends from what lurks at night... by playing this rhythm arcade hack-'n-bash RPG game! Play as a musician and stir away your fear!
 ***
 ## Detailed Description
 ### Setting
@@ -31,9 +31,9 @@ Dream / Nightmare Enemies
 ### Primary Objective
 Fight off enemies to protect your sleeping friends; the player wins once all enemies are defeated
 ### General Narrative
-You and your friends are camping in the forest. During night, musical shadow creatures attack. Use your musical combat abilities to protect your sleeping friends.
+You and your friends are camping in the forest. During the night, musical shadow creatures attack. Use your musical combat abilities to protect your sleeping friends.
 ### Game Mechanic
-Hack and slash, attacks based on the music, miss attacks if completely off beat, ability to dash from one enemy to the next during combo.
+Hack and bash, attacks based on the music, miss attacks if completely off beat, ability to dash from one enemy to the next during combo.
 Combo mechanics are similar to Patapon Fever mode, where successfully playing to the rhythm allows for benefits if maintained
 ![Patapon Fever mode](https://orig00.deviantart.net/fd4a/f/2017/300/8/7/fever_worm_animation__by_topaz_the_crosscat73-dbrvyfv.gif)
 ### Asset List
