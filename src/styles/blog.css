@@ -19,3 +19,9 @@
 }
 
 .blog img{ max-width: 20rem}
+
+.blog header {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

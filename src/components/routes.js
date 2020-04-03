@@ -1,6 +1,6 @@
 import React from "react";
 import {Route, Switch} from "react-router";
-import {Home, About, Blogs, Blog, Error} from '../pages'
+import {Home, About, Blog, Post, Error} from '../pages'
 import '../styles/page.css'
 
 const Routes = () => {
@@ -9,8 +9,8 @@ const Routes = () => {
             <Route exact path="/" component={Home}/>
             <Route exact path="/about/" component={About}/>
             <Route exact path="/home/" component={Home}/>
-            <Route exact path="/blogs/" component={Blogs}/>
-            <Route exact path="/blogs/:blog" component={Blog}/>
+            <Route exact path="/blog/" component={Blog}/>
+            <Route exact path="/blog/:post" component={Post}/>
             <Route path ="*"><Error/></Route>
         </Switch>
     )

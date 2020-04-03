@@ -43,8 +43,22 @@ Scoring and damage system that takes the music into consideration, basic enemy A
 ### Style Guide
 Style will be semi-cartoon with some shaders; definitely will use special effects for hitting and musical projections
 
+The overall mood, angle, and colors would be close to *The Last Campfire*
+
+![The Last Campfire](https://cdn.vox-cdn.com/thumbor/zn6cwk09X4s55uY383mL4ZziVYk=/0x0:2048x1152/920x613/filters:focal(861x413:1187x739):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/62641162/lastcampfire.0.jpg)
+
+and
+
+![Campfire](https://floriandcp.itch.io/campfire-web)
+
+The shadow enemies should be similar to *A Hat in Time*'s The Snatcher.
+ 
 ![The Snatcher](https://gifimage.net/wp-content/uploads/2018/10/a-hat-in-time-snatcher-gif-2.gif)
 
-Some enemies can have no legs
+Some ghostly enemies can have no legs like Peepa from *Super Mario 3D Land*. Having less limbs to animate can make it less taxing for the artists in the scope of the term.
 
-![Peeper](https://www.mariowiki.com/images/thumb/7/74/MPST_Artwork_-_Peepa.png/1200px-MPST_Artwork_-_Peepa.png)
+![Peepa](https://www.mariowiki.com/images/thumb/7/74/MPST_Artwork_-_Peepa.png/1200px-MPST_Artwork_-_Peepa.png)
+
+We wouldn't want to have a completely cartoon-style theme, it can be similar to Blizzard's *Warcraft III: Reforged* art style.
+
+![Warcraft 3: Reforged](https://cdn.mos.cms.futurecdn.net/CDVzujXCmCBzBywgpARt5n-650-80.jpg.webp)

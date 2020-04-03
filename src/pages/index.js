@@ -2,6 +2,6 @@
 
 export {default as Home} from './home';
 export {default as About} from './about';
-export {default as Blogs} from './blogs';
-export {default as Blog} from './blogpost';
+export {default as Blog} from './blog';
+export {default as Post} from './post';
 export {default as Error} from './error';
