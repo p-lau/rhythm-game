@@ -11,12 +11,12 @@ const Home = () => {
                         amount: 1,
                     },
                     {
-                        image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/campfire/1.png?raw=true',
-                        amount: 0.3,
+                        children: (<h1 style={{'textAlign':'center', 'marginTop':'45vh'}}>Rhythm of the night</h1>),
+                        amount: 0.7
                     },
                     {
-                        children: (<h1 style={{'textAlign':'center', 'marginTop':'10rem'}}>Rhythm of the night</h1>),
-                        amount: 0
+                        image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/campfire/1.png?raw=true',
+                        amount: 0.3,
                     },
                     {
                         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/campfire/2.png?raw=true',
