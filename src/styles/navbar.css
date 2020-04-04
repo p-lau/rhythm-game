@@ -1,5 +1,6 @@
 /* Navigation bar */
 .bar {
+    z-index: 10;
     position: sticky;
     font-weight: bold;
     backdrop-filter: blur(1px);

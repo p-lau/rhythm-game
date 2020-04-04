@@ -1,5 +1,4 @@
 import React from "react";
-import {PROFILES} from "../components";
 
 const About = () => {
     return (
