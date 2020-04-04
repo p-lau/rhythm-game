@@ -1,7 +1,7 @@
 const PROFILES = [
     {
         name: 'Cem Alemdar',
-        image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/default.png?raw=true',
+        image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/ca.jpg?raw=true',
         text: 'Team Lead, Web Developer, Audiovisual Programmer',
     },
     {
