@@ -1,0 +1,9 @@
+.home {
+    background: url("https://github.com/team2-4/2-4/blob/master/src/media/images/campfire/0.png?raw=true") no-repeat fixed top center;
+}
+
+.home + main {
+    background: #000112;
+    min-height: 100vh;
+    max-width: initial;
+}

@@ -1,22 +1,20 @@
 import React from "react";
 import {ParallaxBanner} from "react-scroll-parallax";
+import '../styles/home.css'
 
 const Home = () => {
     return (
-        <div className="page home">
+        <div className="page">
             <ParallaxBanner
+                className={'home'}
                 layers={[
                     {
-                        image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/campfire/0.png?raw=true',
-                        amount: 1,
-                    },
-                    {
-                        children: (<h1 style={{'textAlign':'center', 'marginTop':'45vh'}}>Rhythm of the night</h1>),
-                        amount: 0.7
+                        children: (<h1 style={{'textAlign':'center', 'marginTop':'45rem'}}>Rhythm of the night</h1>),
+                        amount: 0.8,
                     },
                     {
                         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/campfire/1.png?raw=true',
-                        amount: 0.3,
+                        amount: 0.4,
                     },
                     {
                         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/campfire/2.png?raw=true',
@@ -30,7 +28,7 @@ const Home = () => {
                     },
                 ]}
                 style={{
-                    height: '50vh',
+                    height: '50rem',
                 }}
             />
             <main>
