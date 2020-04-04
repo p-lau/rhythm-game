@@ -13,7 +13,7 @@ const Blog = () => {
                 { POSTS.map((e, i) => {
                     const date = new Date(e.date);
                     return(
-                        <div className={'card '} key={i}>
+                        <div className={'card'} key={i}>
                             <Link to={`/blog/${e.post}`}>
                                 <img src={e.image} alt={'blog'}/>
                                 <h1>{e.post}</h1>

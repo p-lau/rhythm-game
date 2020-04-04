@@ -3,8 +3,9 @@ import ReactDOM from 'react-dom';
 import {BrowserRouter} from 'react-router-dom'
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import ScrollToTop from "./components/scroll-top";
 
-ReactDOM.render(<BrowserRouter><App /></BrowserRouter>,
+ReactDOM.render(<BrowserRouter><ScrollToTop/><App/></BrowserRouter>,
   document.getElementById('root')
 );
 

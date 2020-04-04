@@ -16,7 +16,7 @@
     color: white;
 }
 
-#brand:hover {
+.bar #brand:hover {
     text-shadow: -2px 0 2px red, 2px 0 2px cyan;
 }
 

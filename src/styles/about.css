@@ -1,0 +1,41 @@
+@keyframes float {
+    0%, 100% {
+        transform: translateY(.5rem);
+    }
+    50% {
+        transform: translateY(-0.5rem);
+    }
+}
+
+.about main h1 {
+    font-size: large;
+}
+
+.about main {
+    padding: 1rem;
+    display: flex;
+    flex-flow: wrap;
+    text-align: center;
+    justify-content: center;
+}
+
+.about .card {
+    max-width: 9rem;
+    margin: auto 0.5rem auto 0.5rem;
+    min-height: 17rem;
+}
+
+.about .card img {
+    max-width: 9rem;
+    border-radius: 50%;
+    animation: float 4s infinite ease-in-out;
+}
+.card:nth-child(2n) img{
+    animation-delay: -1s;
+}
+.card:nth-child(3n) img{
+    animation-delay: -3s;
+}
+.card:nth-child(5n) img{
+    animation-delay: -2s;
+}

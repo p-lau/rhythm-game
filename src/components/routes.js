@@ -1,7 +1,7 @@
 import React from "react";
 import {Route, Switch} from "react-router";
-import {Home, About, Blog, Post, Error} from '../pages'
-import '../styles/page.css'
+import {Home, About, Blog, Post, Error} from '../pages';
+import '../styles/page.css';
 
 const Routes = () => {
     return (
