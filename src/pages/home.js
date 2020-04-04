@@ -9,8 +9,8 @@ const Home = () => {
                 className={'home'}
                 layers={[
                     {
-                        children: (<h1 style={{'textAlign':'center', 'marginTop':'45rem'}}>Rhythm of the night</h1>),
-                        amount: 0.8,
+                        children: (<h1 style={{'textAlign':'center', 'marginTop':'45rem', 'textShadow':'0 0 1rem #000112'}}>Rhythm of the night</h1>),
+                        amount: 0.6,
                     },
                     {
                         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/campfire/1.png?raw=true',
