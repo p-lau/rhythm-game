@@ -67,6 +67,6 @@ We've developed some concept art and introduced some of their color palettes as 
 ##### Main Character
 ![Main Character](https://github.com/team2-4/2-4/blob/master/src/media/images/concept/character.png?raw=true)
 ##### Enemies
-![Main Character](https://github.com/team2-4/2-4/blob/master/src/media/images/concept/enemies.png?raw=true)
-##### Main Character
+![Enemies](https://github.com/team2-4/2-4/blob/master/src/media/images/concept/enemies.png?raw=true)
+##### Environment
 ![Environment](https://github.com/team2-4/2-4/blob/master/src/media/images/concept/environment.jpg?raw=true)
