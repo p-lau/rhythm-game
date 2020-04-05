@@ -9,7 +9,7 @@ const Home = () => {
                 className={'home'}
                 layers={[
                     {
-                        children: (<h1 style={{'textAlign':'center', 'marginTop':'45rem', 'textShadow':'0 0 1rem #000112'}}>Rhythm of the night</h1>),
+                        children: (<h1 style={{'textAlign':'center', 'marginTop':'40rem', 'textShadow':'0 0 1rem #000112'}}>Rhythm of the night</h1>),
                         amount: 0.6,
                     },
                     {
@@ -28,7 +28,7 @@ const Home = () => {
                     },
                 ]}
                 style={{
-                    height: '50rem',
+                    height: '45rem',
                 }}
             />
             <main>

@@ -28,14 +28,20 @@
 .about .card img {
     max-width: 9rem;
     border-radius: 50%;
-    animation: float 4s infinite ease-in-out;
+    animation: float 3s infinite ease-in-out;
 }
-.card:nth-child(2n) img{
+.card:nth-child(6) img{
+    animation-delay: -0.5s;
+}
+.card:nth-child(5) img{
     animation-delay: -1s;
 }
-.card:nth-child(3n) img{
-    animation-delay: -3s;
+.card:nth-child(4) img{
+    animation-delay: -1.5s;
 }
-.card:nth-child(5n) img{
+.card:nth-child(3) img{
     animation-delay: -2s;
+}
+.card:nth-child(2) img{
+    animation-delay: -2.5s;
 }
