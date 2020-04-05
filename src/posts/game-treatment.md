@@ -62,3 +62,11 @@ Some ghostly enemies can have no legs like Peepa from *Super Mario 3D Land*. Hav
 We wouldn't want to have a completely cartoon-style theme, it can be similar to Blizzard's *Warcraft III: Reforged* art style.
 
 ![Warcraft 3: Reforged](https://cdn.mos.cms.futurecdn.net/CDVzujXCmCBzBywgpARt5n-650-80.jpg.webp)
+#### Concept Art
+We've developed some concept art and introduced some of their color palettes as well:
+##### Main Character
+![Main Character](https://github.com/team2-4/2-4/blob/master/src/media/images/concept/character.png?raw=true)
+##### Enemies
+![Main Character](https://github.com/team2-4/2-4/blob/master/src/media/images/concept/enemies.png?raw=true)
+##### Main Character
+![Environment](https://github.com/team2-4/2-4/blob/master/src/media/images/concept/environment.jpg?raw=true)
