@@ -27,7 +27,7 @@ Takes place at a modern night-time campfire with friends.
 ### Protagonist
 The Sleepy Campers
 ### Antagonists
-Dream / Nightmare Enemies
+Various nightmare or ghost enemies
 ### Primary Objective
 Fight off enemies to protect your sleeping friends; the player wins once all enemies are defeated
 ### General Narrative
@@ -59,12 +59,14 @@ Some ghostly enemies can have no legs like Peepa from *Super Mario 3D Land*. Hav
 
 ![Peepa](https://www.mariowiki.com/images/thumb/7/74/MPST_Artwork_-_Peepa.png/1200px-MPST_Artwork_-_Peepa.png)
 
-We wouldn't want to have a completely cartoon-style theme, it can be similar to Blizzard's *Warcraft III: Reforged* art style.
+We wouldn't want to have a completely cartoon-style theme, it can be similar to a degree of realism like Blizzard's *Warcraft III: Reforged* art style.
 
 ![Warcraft 3: Reforged](https://cdn.mos.cms.futurecdn.net/CDVzujXCmCBzBywgpARt5n-650-80.jpg.webp)
 #### Concept Art
 We've developed some concept art and introduced some of their color palettes as well:
 ##### Main Character
+Main character with a djembe on a stick. 
+
 ![Main Character](https://github.com/team2-4/2-4/blob/master/src/media/images/concept/character.png?raw=true)
 ##### Enemies
 ![Enemies](https://github.com/team2-4/2-4/blob/master/src/media/images/concept/enemies.png?raw=true)
