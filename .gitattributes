@@ -20,3 +20,8 @@
 ./src/media/images/concept/character.png filter=lfs diff=lfs merge=lfs -text
 ./src/media/images/concept/enemies.png filter=lfs diff=lfs merge=lfs -text
 ./src/media/images/concept/environment.jpg filter=lfs diff=lfs merge=lfs -text
+./src/media/images/development/environment-greybox.jpg filter=lfs diff=lfs merge=lfs -text
+./src/media/images/development/snek.png filter=lfs diff=lfs merge=lfs -text
+./src/media/images/development/snek2.png filter=lfs diff=lfs merge=lfs -text
+./src/media/images/development/snek3.png filter=lfs diff=lfs merge=lfs -text
+./src/media/images/development/conceptsketch.png filter=lfs diff=lfs merge=lfs -text
