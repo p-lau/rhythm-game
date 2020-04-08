@@ -26,6 +26,10 @@
     background-size: cover;
 }
 
+.blog header h1 {
+    text-shadow: 0 0 0.5rem black;
+}
+
 .blog main {
     align-content: center;
 }
