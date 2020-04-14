@@ -1,7 +1,6 @@
 import React, {useEffect, useState} from "react";
-import Markdown from "react-markdown";
+import ReactMarkdown from "react-markdown";
 import {useParams} from "react-router";
-
 import '../styles/blog.css'
 import {Loading, Error} from "../pages";
 import {POSTS} from "../components";
@@ -35,7 +34,7 @@ const Post = () => {
     return ( error ? <Error/> :
         markdown ? <div className='page blog'>
             <header style={{'backgroundImage': `url(${blogpost.image})`}}><h1>{post}</h1></header>
-            <main><Markdown source={markdown}/></main>
+            <main><ReactMarkdown source={markdown} escapeHtml={false}/></main>
         </div> : <Loading/>
     )
 };

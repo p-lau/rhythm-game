@@ -5,5 +5,5 @@
 .home + main {
     background: #000112;
     min-height: 100vh;
-    max-width: initial;
+    max-width: 100%;
 }

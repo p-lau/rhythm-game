@@ -6,6 +6,8 @@
     border-collapse:collapse
 }
 
+.blog table tr {max-width: 100%}
+
 .blog th, .blog td {
     padding: 0.75rem 0.5rem;
 }
@@ -18,7 +20,7 @@
     background-color: rgba(255,255,255,0.25);
 }
 
-.blog img{ max-width: 20rem;}
+.blog img{ max-width: 100%;}
 
 .blog header {
     background-repeat: no-repeat;
@@ -32,6 +34,7 @@
 
 .blog main {
     align-content: center;
+    max-width: 40rem;
 }
 
 .display-blog main {

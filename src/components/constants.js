@@ -41,7 +41,12 @@ const POSTS = [
         post: 'game-treatment',
         image: 'https://images.pexels.com/photos/164168/pexels-photo-164168.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260',
         date: '2020-04-03'
-    }
+    },
+    {
+        post: 'development-blog-1',
+        image: 'https://images.pexels.com/photos/34123/pexels-photo.jpg?cs=srgb&dl=iphone-notebook-pen-working-34123.jpg&fm=jpg',
+        date: '2020-04-14'
+    },
 ];
 
 export { PROFILES, POSTS };

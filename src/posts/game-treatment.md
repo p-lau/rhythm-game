@@ -35,6 +35,7 @@ You and your friends are camping in the forest. During the night, musical shadow
 ### Game Mechanic
 Hack and bash, attacks based on the music, miss attacks if completely off beat, ability to dash from one enemy to the next during combo.
 Combo mechanics are similar to Patapon Fever mode, where successfully playing to the rhythm allows for benefits if maintained
+
 ![Patapon Fever mode](https://orig00.deviantart.net/fd4a/f/2017/300/8/7/fever_worm_animation__by_topaz_the_crosscat73-dbrvyfv.gif)
 ### Asset List
 [Artistic and Technical Assets](https://docs.google.com/spreadsheets/d/1IWsD39IKXF7yvXw522N-t9l_Fj_VydG91XINBpBbc3A/edit?usp=sharing)
