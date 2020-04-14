@@ -26,3 +26,5 @@
 ./src/media/images/development/snek3.png filter=lfs diff=lfs merge=lfs -text
 ./src/media/images/development/conceptsketch.png filter=lfs diff=lfs merge=lfs -text
 ./src/media/images/development/trees.png filter=lfs diff=lfs merge=lfs -text
+./src/media/audio/CampfireSong.ogg filter=lfs diff=lfs merge=lfs -text
+./src/media/audio/TitleSong.ogg filter=lfs diff=lfs merge=lfs -text
