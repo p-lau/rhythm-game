@@ -35,16 +35,22 @@ const POSTS = [
     {
         post: 'team-document',
         image: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+        title: 'Team Document',
+        description: 'Our team document',
         date: '2020-03-29'
     },
     {
         post: 'game-treatment',
         image: 'https://images.pexels.com/photos/164168/pexels-photo-164168.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260',
+        title: 'Game Treatment',
+        description: 'Our game treatment',
         date: '2020-04-03'
     },
     {
         post: 'development-blog-1',
         image: 'https://images.pexels.com/photos/34123/pexels-photo.jpg?cs=srgb&dl=iphone-notebook-pen-working-34123.jpg&fm=jpg',
+        title: 'First Dev Blog',
+        description: 'Our first development blogpost',
         date: '2020-04-14'
     },
 ];

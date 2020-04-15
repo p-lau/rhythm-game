@@ -1,6 +1,7 @@
 import React from "react";
 import {ParallaxBanner} from "react-scroll-parallax";
 import '../styles/home.css'
+import {SEO} from "../components";
 
 const Home = () => {
     return (
@@ -32,6 +33,7 @@ const Home = () => {
                 }}
             />
             <main>
+                <SEO title={'Home'} description={'A hack-n-bash rhythm game from Team 2/4, a group from IMGD4000/4500 course of WPI'}/>
             </main>
         </div>
     )

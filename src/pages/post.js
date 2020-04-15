@@ -3,7 +3,7 @@ import ReactMarkdown from "react-markdown";
 import {useParams} from "react-router";
 import '../styles/blog.css'
 import {Loading, Error} from "../pages";
-import {POSTS} from "../components";
+import {POSTS, SEO} from "../components";
 
 const Post = () => {
     const { post } = useParams();
@@ -33,7 +33,8 @@ const Post = () => {
 
     return ( error ? <Error/> :
         markdown ? <div className='page blog'>
-            <header style={{'backgroundImage': `url(${blogpost.image})`}}><h1>{post}</h1></header>
+            <SEO description={blogpost.description} title={blogpost.title}/>
+            <header style={{'backgroundImage': `url(${blogpost.image})`}}><h1>{blogpost.title}</h1></header>
             <main><ReactMarkdown source={markdown} escapeHtml={false}/></main>
         </div> : <Loading/>
     )

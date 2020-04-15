@@ -1,4 +1,4 @@
-# Development Blog 1
+# Development Blog
 <small>check up on our developmental progress!</small>
 
 by **Team 2/4**
