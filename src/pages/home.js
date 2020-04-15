@@ -5,9 +5,9 @@ import {SEO} from "../components";
 
 const Home = () => {
     return (
-        <div className="page">
+        <div className="page home">
             <ParallaxBanner
-                className={'home'}
+                className={'splash'}
                 layers={[
                     {
                         children: (<h1 style={{'textAlign':'center', 'marginTop':'40rem', 'textShadow':'0 0 1rem #000112'}}>Rhythm of the night</h1>),
@@ -32,8 +32,11 @@ const Home = () => {
                     height: '45rem',
                 }}
             />
+            <header><h1>Rhythm of the Night</h1></header>
             <main>
                 <SEO title={'Home'} description={'A hack-n-bash rhythm game from Team 2/4, a group from IMGD4000/4500 course of WPI'}/>
+                <h1>We're currently working on this game</h1>
+                <p>Check back soon for the Alpha release!</p>
             </main>
         </div>
     )

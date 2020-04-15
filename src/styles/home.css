@@ -1,9 +1,33 @@
-.home {
+.home .splash {
     background: url("https://github.com/team2-4/2-4/blob/master/src/media/images/campfire/0.png?raw=true") no-repeat fixed top center;
 }
+.home header {
+    height: 20rem;
+    background: url("https://raw.githubusercontent.com/team2-4/2-4/master/src/media/images/rhythmofthenight.jpg") center bottom no-repeat;
+    background-size: cover;
+}
 
-.home + main {
+@media (min-width: 800px) {
+    .home header {display: none !important}
+    .home .splash {display: block !important}
+}
+
+@media (max-width: 800px) {
+    .home .splash {display: none !important;}
+    .home header {display: block !important;}
+}
+
+.home main {
     background: #000112;
     min-height: 100vh;
     max-width: 100%;
+}
+
+.home main h1 {
+    padding-top: 10rem;
+}
+
+.home main h1, .home main p {
+    margin: auto;
+    text-align: center;
 }
