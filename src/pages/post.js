@@ -11,7 +11,7 @@ const Post = () => {
     const [error, setError] = useState(false);
 
     useEffect(()=>{
-        if(!markdown){
+        if(!markdown && !error){
             async function fetchBlog (){
                 try {
                     // Look for blog
