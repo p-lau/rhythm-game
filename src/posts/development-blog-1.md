@@ -51,5 +51,5 @@ One of our sound engineers [Panha](/about) created loopable audio tracks for the
 ![Perforce logo](https://www.perforce.com/themes/custom/themekit/logo.svg)
 
 We've also been able to set up a version control system called [Perforce](https://www.perforce.com/), and we're ready to implement the audiovisual assets into our game!
-our lead developer [Alex](/about), will be the one managing the version controls for us.
+Our lead developer [Alex](/about), will be the one managing the version controls for us.
 

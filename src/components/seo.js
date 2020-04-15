@@ -7,7 +7,7 @@ export const SEO = ({description, title}) => {
     return(
         <Helmet
             title={metaTitle}
-            titleTemplate={`%s | team 2/4`}
+            titleTemplate={`%s | Team 2/4`}
             defaultTitle={`Team 2/4`}
             meta={[
                 {
