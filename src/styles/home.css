@@ -21,6 +21,7 @@
     background: #000112;
     min-height: 100vh;
     max-width: 100%;
+    text-align: center;
 }
 
 .home main h1 {

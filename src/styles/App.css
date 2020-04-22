@@ -77,3 +77,15 @@ h1{
 .card {
   margin: auto auto 2rem auto;
 }
+
+.button {
+  padding: 1rem;
+  margin: 1rem;
+  display: inline-block;
+  background: #3c44a8;
+  border-radius: 0.5rem;
+}
+
+.button:hover {
+  background: #6069d7
+}
