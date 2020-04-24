@@ -49,10 +49,17 @@ const POSTS = [
     {
         post: 'development-blog-1',
         image: 'https://images.pexels.com/photos/34123/pexels-photo.jpg?cs=srgb&dl=iphone-notebook-pen-working-34123.jpg&fm=jpg',
-        title: 'First Dev Blog',
-        description: 'Our first development blogpost',
+        title: 'Dev Blog: The Beginning',
+        description: 'Our first development blog post',
         date: '2020-04-14'
     },
+    {
+        post: 'development-blog-2',
+        image: 'https://images.pexels.com/photos/1181618/pexels-photo-1181618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+        title: 'Dev Blog: The Presentation',
+        description: 'Our second development blog post',
+        date: '2020-04-24'
+    }
 ];
 
 export { PROFILES, POSTS };

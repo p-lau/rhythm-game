@@ -19,7 +19,7 @@ const Blog = () => {
                                 <img src={e.image} alt={'blog'}/>
                                 <h1>{e.title}</h1>
                                 <small>
-                                    Posted on {date.toLocaleDateString('en-EN', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
+                                    Posted on {date.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
                                 </small>
                             </Link>
                         </div>

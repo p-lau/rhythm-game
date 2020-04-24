@@ -23,9 +23,9 @@ const Post = () => {
                     setError(true);
                 }
             }
-            fetchBlog().then(r => null);
+            fetchBlog().then();
         }
-    }, [post, markdown]);
+    }, [error, post, markdown]);
     let blogpost = {};
     if(markdown){
         blogpost = POSTS.find(a => a.post === post);
