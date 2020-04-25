@@ -19,7 +19,26 @@ The tent:
 ![Chair](https://github.com/team2-4/2-4/blob/master/src/media/images/development/tent.PNG?raw=true)
 
 [Sarah](/about) optimized both character and snake enemy models.
-She also rigged and added attacking animations for both the player and snake models.
+She also rigged and added attacking animations for both the player and snake models, while also providing the drum hammer weapon for the player.
+
+The snake animations:
+![snake bite](https://github.com/team2-4/2-4/blob/master/src/media/images/development/SNAKEBITE_preview.gif?raw=true)
+![snake slither](https://github.com/team2-4/2-4/blob/master/src/media/images/development/SNAKESLITHER_preview.gif?raw=true)
+
+Character and drum hammer models:
+
+Character front:
+
+![Character](https://github.com/team2-4/2-4/blob/master/src/media/images/development/character_render2.PNG?raw=true)
+
+Character back:
+
+![Character1](https://github.com/team2-4/2-4/blob/master/src/media/images/development/character_render1.PNG?raw=true)
+
+Front:
+![Drum Hammer1](https://github.com/team2-4/2-4/blob/master/src/media/images/development/hammer_render1.png?raw=true)
+Behind:
+![Drum Hammer2](https://github.com/team2-4/2-4/blob/master/src/media/images/development/hammer_render2.png?raw=true)
 
 [Alex](/about) implemented a basic rhythm system that checks if you are on time with the rhythm. He also added enemy spawners.
 
