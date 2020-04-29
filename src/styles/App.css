@@ -14,7 +14,7 @@ body {
   text-rendering: optimizeLegibility;
   color: whitesmoke;
   background-color: #2C2F33;
-  font-family: Whitney, "Open Sans",'Helvetica','Lato',sans-serif;
+  font-family: 'Whitney', "Open Sans",'Helvetica','Lato',sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

@@ -25,7 +25,9 @@
 }
 
 .home main h1 {
-    padding-top: 10rem;
+    padding-top: 15rem;
+    margin: auto;
+    text-align: center;
 }
 
 .home main div {
@@ -34,7 +36,7 @@
     max-width: 40rem;
 }
 
-.home main h1, .home main p {
-    margin: auto;
-    text-align: center;
+.home main p {
+    margin: 1rem auto;
+    text-align: left;
 }
