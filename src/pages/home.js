@@ -56,12 +56,13 @@ const Home = () => {
                     <p>Move the cursor with the mouse <FontAwesomeIcon icon={faMouse} /></p>
                     <p>The character will face in the direction towards the cursor</p>
 
-                    <a download className={'button'} href={"https://drive.google.com/open?id=1JaERjOnAkKfV_98YlqsZYzcsSwVM3IUY"}>Download the Game<small>Windows <FontAwesomeIcon icon={['fab', 'windows']} /> only</small></a>
+                    <a download className={'button'} href={"https://drive.google.com/file/d/1m84W25-ij6GUuke4ntRNaBBF9oOe_2Rg/view?usp=sharing"}>Download the Game<small>Windows <FontAwesomeIcon icon={['fab', 'windows']} /> only</small></a>
                     <a className={'button'} href={"https://forms.gle/P9trsCRfUKfkp3mT7"}>Take the survey<small>on Google Forms</small></a>
 
                     <p> </p>
                     <h2>Enjoy the game!</h2>
                     <p> </p>
+                    <p></p>
                 </div>
             </main>
         </div>
