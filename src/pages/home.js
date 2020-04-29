@@ -45,7 +45,7 @@ const Home = () => {
                     <p>Download and extract the .zip file from the download link</p>
                     <p>Run the .exe file after extraction</p>
                     <p>Click [Play] to start the game</p>
-                    <p>Defeat the snakes while attacking by the music's rhythm. A metronome displayed as a visual guide for the music rhythm</p>
+                    <p>Defeat the snakes while attacking by the music's rhythm. A metronome is displayed as a visual guide for the music rhythm</p>
                     <p>The game ends once the player clears three waves of enemy snakes or the tent's or character's health bar drops to 0 (displayed at the sides)</p>
                     <p>Press the Esc key to bring up the menu and click [Quit] to close and exit the game</p>
                     <h4>Controls:</h4>
@@ -56,11 +56,11 @@ const Home = () => {
                     <p>Move the cursor with the mouse <FontAwesomeIcon icon={faMouse} /></p>
                     <p>The character will face in the direction towards the cursor</p>
 
-                    <a download className={'button'} href={"https://drive.google.com/open?id=1JaERjOnAkKfV_98YlqsZYzcsSwVM3IUY"}>Download the Game</a>
-                    <a className={'button'} href={"https://forms.gle/P9trsCRfUKfkp3mT7"}>Take the survey</a>
-                    <p>Currently for Windows <FontAwesomeIcon icon={['fab', 'windows']} /> only</p>
+                    <a download className={'button'} href={"https://drive.google.com/open?id=1JaERjOnAkKfV_98YlqsZYzcsSwVM3IUY"}>Download the Game<small>Windows <FontAwesomeIcon icon={['fab', 'windows']} /> only</small></a>
+                    <a className={'button'} href={"https://forms.gle/P9trsCRfUKfkp3mT7"}>Take the survey<small>on Google Forms</small></a>
+
                     <p> </p>
-                    <p>Enjoy the game!</p>
+                    <h2>Enjoy the game!</h2>
                     <p> </p>
                 </div>
             </main>

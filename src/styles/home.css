@@ -40,3 +40,7 @@
     margin: 1rem auto;
     text-align: left;
 }
+
+.home main small {
+    display: block;
+}
