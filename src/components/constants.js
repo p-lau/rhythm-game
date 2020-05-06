@@ -59,6 +59,13 @@ const POSTS = [
         title: 'Dev Blog: The Presentation',
         description: 'Our second development blog post',
         date: '2020-04-24'
+    },
+    {
+        post: 'development-blog-3',
+        image: 'https://images.pexels.com/photos/735911/pexels-photo-735911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+        title: 'Dev Blog: Playtesting',
+        description: 'Our third development blog post',
+        date: '2020-05-06'
     }
 ];
 
