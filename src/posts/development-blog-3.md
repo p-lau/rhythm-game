@@ -18,9 +18,12 @@ This will be implemented into our game for the beta version.
 ![otter2](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Capture2.PNG?raw=true)
 ![otter move](https://github.com/team2-4/2-4/blob/master/src/media/images/development/OTTER_move_preview.gif?raw=true)
 
-Sarah also made a painting for the game. Here is her most recent iteration:
-
-![painting](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Painting5.png?raw=true)
+Sarah also made a visual narrative for the game. Here is her most recent iteration:
+![painting](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Painting1.png?raw=true)
+![painting2](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Painting2.png?raw=true)
+![painting3](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Painting3.png?raw=true)
+![painting4](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Painting4.png?raw=true)
+![painting5](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Painting5.png?raw=true)
 
 These additions will also be implemented for beta.
 
