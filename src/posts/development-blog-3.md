@@ -18,7 +18,11 @@ This will be implemented into our game for the beta version.
 ![otter2](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Capture2.PNG?raw=true)
 ![otter move](https://github.com/team2-4/2-4/blob/master/src/media/images/development/OTTER_move_preview.gif?raw=true)
 
-This will also be implemented for beta.
+Sarah also made a painting for the game. Here is her most recent iteration:
+
+![painting](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Painting5.png?raw=true)
+
+These additions will also be implemented for beta.
 
 We've also updated the game for the playtesting version! Our developers [Cem](/about), [Shiyi](/about), and [Alex](/about) made some changes to the game in comparison
 to the alpha version.
