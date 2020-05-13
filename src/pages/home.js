@@ -40,7 +40,15 @@ const Home = () => {
                     <h1>Beta: Rhythm of the Night</h1>
                     <hr/>
                     <p> As the term draws to a close, we proudly present to you our game. Here is a gameplay demo.</p>
-                    <h2>Demo:</h2>
+                    <iframe
+                        src="https://docs.google.com/presentation/d/e/2PACX-1vQFeoji5PuvTQTaUzPZTtCa3OEUzzLqddL_K6xXmV0gVxPeSJA_LNvvMGkd-8Poy5Kpav46ZMk9-h25/embed?start=false&loop=false&delayms=3000"
+                        frameBorder="0"
+                        width="100%"
+                        height="450"
+                        allowFullScreen="true"
+                        mozallowfullscreen="true"
+                        webkitallowfullscreen="true"/>
+                    <p> </p>
                     <iframe
                         title="beta demo"
                         width="100%"
