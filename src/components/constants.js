@@ -1,30 +1,36 @@
 const PROFILES = [
     {
+        id: 'calemdar',
         name: 'Cem Alemdar',
         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/ca.jpg?raw=true',
         text: 'Team Lead, Web Developer, Audiovisual Programmer',
     },
     {
+        id: 'plau',
         name: 'Panhavuth Lau',
         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/pl.jpg?raw=true',
         text: 'Web Developer, Sound Engineer, Audiovisual Programmer',
     },
     {
+        id: 'sliu',
         name: 'Shiyi Liu',
         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/default.png?raw=true',
         text: 'Tech Artist, Interactive Designer, Sound Engineer',
     },
     {
+        id: 'slove',
         name: 'Sarah Love',
         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/sml.jpg?raw=true',
         text: 'Character Artist, Sound Engineer',
     },
     {
+        id: 'gtaylor',
         name: 'Gavin Taylor',
         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/default.png?raw=true',
         text: 'Environmental Artist, Game Designer',
     },
     {
+        id: 'atian',
         name: 'Alex Tian',
         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/default.png?raw=true',
         text: 'Lead Developer, Gameplay Programmer',

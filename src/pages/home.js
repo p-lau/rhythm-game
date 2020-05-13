@@ -3,7 +3,6 @@ import {ParallaxBanner} from "react-scroll-parallax";
 import '../styles/home.css'
 import {SEO} from "../components";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faMouse} from "@fortawesome/free-solid-svg-icons/faMouse";
 
 const Home = () => {
     return (
@@ -38,31 +37,22 @@ const Home = () => {
             <main>
                 <SEO title={'Home'} description={'A hack-n-bash rhythm game from Team 2/4, a group from IMGD4000/4500 course of WPI'}/>
                 <div>
-                    <h1>Playtesting</h1>
+                    <h1>Beta: Rhythm of the Night</h1>
                     <hr/>
-                    <h2>We're looking for people to test our game!</h2>
-                    <h3>Directions:</h3>
-                    <p>Download and extract the .zip file from the download link</p>
-                    <p>Run the .exe file after extraction</p>
-                    <p>Click [Play] to start the game</p>
-                    <p>Defeat the snakes while attacking by the music's rhythm. A metronome is displayed as a visual guide for the music rhythm</p>
-                    <p>The game ends once the player clears three waves of enemy snakes or the tent's or character's health bar drops to 0 (displayed at the sides)</p>
-                    <p>Press the Esc key to bring up the menu and click [Quit] to close and exit the game</p>
-                    <h4>Controls:</h4>
-                    <p>[Esc] to go to menu screen</p>
-                    <p>[WASD] to move</p>
-                    <p>[Left-mouse button]  to attack</p>
-                    <p>[Spacebar] to attack</p>
-                    <p>Move the cursor with the mouse <FontAwesomeIcon icon={faMouse} /></p>
-                    <p>The character will face in the direction towards the cursor</p>
-
-                    <a download className={'button'} href={"https://drive.google.com/file/d/1m84W25-ij6GUuke4ntRNaBBF9oOe_2Rg/view?usp=sharing"}>Download the Game<small>Windows <FontAwesomeIcon icon={['fab', 'windows']} /> only</small></a>
-                    <a className={'button'} href={"https://forms.gle/P9trsCRfUKfkp3mT7"}>Take the survey<small>on Google Forms</small></a>
-
+                    <p> As the term draws to a close, we proudly present to you our game. Here is a gameplay demo.</p>
+                    <h2>Demo:</h2>
+                    <iframe
+                        title="beta demo"
+                        width="100%"
+                        height="450px"
+                        src="https://www.youtube-nocookie.com/embed/XZYoxlmlmcs"
+                        frameBorder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    />
+                    <a download className={'button'} href={"https://drive.google.com/open?id=1QUMmijrDiyOX1CGOGU1KWHCPCn2pJrOY"}>Download the Game<small>Windows <FontAwesomeIcon icon={['fab', 'windows']} /> only</small></a>
                     <p> </p>
                     <h2>Enjoy the game!</h2>
                     <p> </p>
-                    <p></p>
                 </div>
             </main>
         </div>
