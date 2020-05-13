@@ -13,11 +13,11 @@ const About = () => {
                 <SEO title={'Meet the group'} description={'The section about the Team 2/4 crew'}/>
                 {PROFILES.map((e, i)=>{
                     return(
-                        <div className={'card'} key={i}>
+                        <a className={'card'} key={i} href={e.link || '/#/'}>
                             <img src={e.image} alt={`${e.name}'s profile`}/>
                             <h1>{e.name}</h1>
                             <small>{e.text}</small>
-                        </div>
+                        </a>
                     )
                 })}
             </main>

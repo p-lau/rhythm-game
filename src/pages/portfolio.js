@@ -4,25 +4,19 @@ import {useParams} from "react-router";
 
 export const Portfolio = () => {
     const { id } = useParams()
-    const profile = PROFILES.filter(profile => profile.id === id)
+    const profile = PROFILES.filter(profile => profile.id === id)[0]
 
 
     return (
         <div className="page portfolio">
             <header>
-                <h1>{PROFILES}</h1>
+                <h1>{profile.name}</h1>
             </header>
             <main>
-                <SEO title={'Meet the group'} description={'The section about the Team 2/4 crew'}/>
-                {PROFILES.map((e, i)=>{
-                    return(
-                        <div className={'card'} key={i}>
-                            <img src={e.image} alt={`${e.name}'s profile`}/>
-                            <h1>{e.name}</h1>
-                            <small>{e.text}</small>
-                        </div>
-                    )
-                })}
+                <SEO title={profile.name} description={profile.text}/>
+                <h2>Role</h2>
+                <p>{profile.text}</p>
+                <iframe title={profile.name+"'s portfolio"} src={process.env.PUBLIC_URL+"/portfolio/"+profile.id+"_portfolio.pdf"} width="100%" height="800rem"/>
             </main>
         </div>
     )
