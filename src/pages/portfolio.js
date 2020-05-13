@@ -16,7 +16,7 @@ export const Portfolio = () => {
                 <SEO title={profile.name} description={profile.text}/>
                 <h2>Role</h2>
                 <p>{profile.text}</p>
-                <iframe title={profile.name+"'s portfolio"} src={process.env.PUBLIC_URL+"/portfolio/"+profile.id+"_portfolio.pdf"} width="100%" height="800rem"/>
+                <iframe title={profile.name+"'s portfolio"} src={"/portfolio/"+profile.id+"_portfolio.pdf"} width="100%" height="800rem"/>
             </main>
         </div>
     )

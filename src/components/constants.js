@@ -4,6 +4,7 @@ const PROFILES = [
         name: 'Cem Alemdar',
         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/ca.jpg?raw=true',
         text: 'Team Lead, Web Developer, Audiovisual Programmer',
+        external: true,
         link: 'https://calemdar.github.io/'
     },
     {
@@ -11,20 +12,23 @@ const PROFILES = [
         name: 'Panhavuth Lau',
         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/pl.jpg?raw=true',
         text: 'Web Developer, Sound Engineer, Audiovisual Programmer',
-        link: '#'
+        external: false,
+        link: '/about'
     },
     {
         id: 'sliu',
         name: 'Shiyi Liu',
         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/default.png?raw=true',
         text: 'Tech Artist, Interactive Designer, Sound Engineer',
-        link: '#'
+        external: false,
+        link: '/about'
     },
     {
         id: 'slove',
         name: 'Sarah Love',
         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/sml.jpg?raw=true',
         text: 'Character Artist, Sound Engineer',
+        external: false,
         link: '/about/slove'
     },
     {
@@ -32,6 +36,7 @@ const PROFILES = [
         name: 'Gavin Taylor',
         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/default.png?raw=true',
         text: 'Environmental Artist, Game Designer',
+        external: false,
         link: '/about/gtaylor'
     },
     {
@@ -39,7 +44,8 @@ const PROFILES = [
         name: 'Alex Tian',
         image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/default.png?raw=true',
         text: 'Lead Developer, Gameplay Programmer',
-        link: '#'
+        external: false,
+        link: '/about'
     }
 ];
 
