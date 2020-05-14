@@ -12,7 +12,7 @@ interface of our game. We've also talked about how the camera would work within 
 
 Here is the final amalgamation of our brainstorming ideas:
 
-![concept](https://github.com/team2-4/2-4/blob/master/src/media/images/development/conceptsketch.png?raw=true)
+![concept](/media/images/development/conceptsketch.png)
 
 ### Art
 Our artists have been great in generating the assets for our game:
