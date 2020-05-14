@@ -30,7 +30,7 @@ const PROFILES = [
         text: 'Character Artist, Sound Engineer',
         external: false,
         link: '/about/slove',
-        gifs: ["/media/images/development/OTTER_move_preview.gif", "/media/images/development/OTTER_attack_preview.gif", "/media/images/development/SNAKE_attack_move.gif", "/media/images/development/SNAKE_attack_preview.gif"]
+        gifs: ["/media/images/development/OTTER_move_preview.gif", "/media/images/development/OTTER_attack_preview.gif", "/media/images/development/SNAKE_move_preview.gif", "/media/images/development/SNAKE_attack_preview.gif"]
     },
     {
         id: 'gtaylor',
