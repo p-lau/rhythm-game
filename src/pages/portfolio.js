@@ -8,7 +8,7 @@ export const Portfolio = () => {
 
 
     return (
-        <div className="page portfolio">
+        <div className="page blog">
             <header>
                 <h1>{profile.name}</h1>
             </header>
@@ -16,6 +16,11 @@ export const Portfolio = () => {
                 <SEO title={profile.name} description={profile.text}/>
                 <h2>Role</h2>
                 <p>{profile.text}</p>
+                {profile.gifs ? profile.gifs.map((e, i)=>{
+                    return(
+                        <img alt={i} key={i} src={e}/>
+                    )
+                }) : null}
                 <iframe title={profile.name+"'s portfolio"} src={"/portfolio/"+profile.id+"_portfolio.pdf"} width="100%" height="800rem"/>
             </main>
         </div>

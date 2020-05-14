@@ -68,8 +68,8 @@ We've developed some concept art and introduced some of their color palettes as 
 ##### Main Character
 Main character with a djembe on a stick. 
 
-![Main Character](https://github.com/team2-4/2-4/blob/master/src/media/images/concept/character.png?raw=true)
+![Main Character](/media/images/concept/character.png)
 ##### Enemies
-![Enemies](https://github.com/team2-4/2-4/blob/master/src/media/images/concept/enemies.png?raw=true)
+![Enemies](/media/images/concept/enemies.png)
 ##### Environment
-![Environment](https://github.com/team2-4/2-4/blob/master/src/media/images/concept/environment.jpg?raw=true)
+![Environment](/media/images/concept/environment.jpg)

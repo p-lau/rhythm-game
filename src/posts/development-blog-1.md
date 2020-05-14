@@ -19,31 +19,31 @@ Our artists have been great in generating the assets for our game:
 
 [Sarah](/about) created a spooky snake enemy:
 
-![snek](https://github.com/team2-4/2-4/blob/master/src/media/images/development/snek.png?raw=true)
+![snek](/media/images/development/snek.png)
 
-![snek2](https://github.com/team2-4/2-4/blob/master/src/media/images/development/snek2.png?raw=true)
+![snek2](/media/images/development/snek2.png)
 
-![snek3](https://github.com/team2-4/2-4/blob/master/src/media/images/development/snek3.png?raw=true)
+![snek3](/media/images/development/snek3.png)
 
 [Gavin](/about) created this cool greybox environment:
 
-![game environment](https://github.com/team2-4/2-4/blob/master/src/media/images/development/environment-greybox.jpg?raw=true)
+![game environment](/media/images/development/environment-greybox.jpg)
 
 He also created a set of amazing trees:
 
-![trees](https://github.com/team2-4/2-4/blob/master/src/media/images/development/trees.png?raw=true)
+![trees](/media/images/development/trees.png)
 ***
 ## This weekend
 One of our sound engineers [Panha](/about) created loopable audio tracks for the game:
 ### Audio
 
 <audio controls loop>
-  <source src="https://raw.githubusercontent.com/team2-4/2-4/master/src/media/audio/TitleSong.ogg" type="audio/ogg">
+  <source src="/media/audio/TitleSong.ogg" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
 
 <audio controls loop>
-  <source src="https://raw.githubusercontent.com/team2-4/2-4/master/src/media/audio/CampfireSong.ogg" type="audio/ogg">
+  <source src="/media/audio/CampfireSong.ogg" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
 

@@ -2,7 +2,7 @@ const PROFILES = [
     {
         id: 'calemdar',
         name: 'Cem Alemdar',
-        image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/ca.jpg?raw=true',
+        image: '/media/images/profile/ca.jpg',
         text: 'Team Lead, Web Developer, Audiovisual Programmer',
         external: true,
         link: 'https://calemdar.github.io/'
@@ -10,7 +10,7 @@ const PROFILES = [
     {
         id: 'plau',
         name: 'Panhavuth Lau',
-        image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/pl.jpg?raw=true',
+        image: '/media/images/profile/pl.jpg',
         text: 'Web Developer, Sound Engineer, Audiovisual Programmer',
         external: false,
         link: '/about'
@@ -18,7 +18,7 @@ const PROFILES = [
     {
         id: 'sliu',
         name: 'Shiyi Liu',
-        image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/default.png?raw=true',
+        image: '/media/images/profile/default.png',
         text: 'Tech Artist, Interactive Designer, Sound Engineer',
         external: false,
         link: '/about'
@@ -26,15 +26,16 @@ const PROFILES = [
     {
         id: 'slove',
         name: 'Sarah Love',
-        image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/sml.jpg?raw=true',
+        image: '/media/images/profile/sml.jpg',
         text: 'Character Artist, Sound Engineer',
         external: false,
-        link: '/about/slove'
+        link: '/about/slove',
+        gifs: ["/media/images/development/OTTER_move_preview.gif", "/media/images/development/OTTER_attack_preview.gif", "/media/images/development/SNAKEBITE_preview.gif", "/media/images/development/SNAKESLITHER_preview.gif"]
     },
     {
         id: 'gtaylor',
         name: 'Gavin Taylor',
-        image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/default.png?raw=true',
+        image: '/media/images/profile/default.png',
         text: 'Environmental Artist, Game Designer',
         external: false,
         link: '/about/gtaylor'
@@ -42,7 +43,7 @@ const PROFILES = [
     {
         id: 'atian',
         name: 'Alex Tian',
-        image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/profile/default.png?raw=true',
+        image: '/media/images/profile/default.png',
         text: 'Lead Developer, Gameplay Programmer',
         external: false,
         link: '/about'

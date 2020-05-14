@@ -15,16 +15,16 @@ const Home = () => {
                         amount: 0.6,
                     },
                     {
-                        image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/campfire/1.png?raw=true',
+                        image: '/media/images/campfire/1.png',
                         amount: 0.4,
                     },
                     {
-                        image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/campfire/2.png?raw=true',
+                        image: '/media/images/campfire/2.png',
                         amount: 0.2,
                         expanded: false
                     },
                     {
-                        image: 'https://github.com/team2-4/2-4/blob/master/src/media/images/campfire/3.png?raw=true',
+                        image: '/media/images/campfire/3.png',
                         amount: 0,
                         expanded: false
                     },

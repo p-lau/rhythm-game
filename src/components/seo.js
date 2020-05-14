@@ -40,11 +40,11 @@ export const SEO = ({description, title}) => {
                 },
                 {
                     name: `og:image`,
-                    content: 'https://raw.githubusercontent.com/team2-4/2-4/master/src/media/images/rhythmofthenight.jpg',
+                    content: '/media/images/rhythmofthenight.jpg',
                 },
                 {
                     name: `twitter:image`,
-                    content: 'https://raw.githubusercontent.com/team2-4/2-4/master/src/media/images/rhythmofthenight.jpg',
+                    content: '/media/images/rhythmofthenight.jpg',
                 },
                 {
                     name: `twitter:title`,

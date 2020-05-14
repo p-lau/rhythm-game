@@ -8,22 +8,22 @@ Our artists gave us new updates.
 
 [Gavin](/about) made grass textures:
 
-![grass render](https://github.com/team2-4/2-4/blob/master/src/media/images/development/grass%20render.jpg?raw=true)
+![grass render](/media/images/development/grass%20render.jpg)
 
 This will be implemented into our game for the beta version.
 
 [Sarah](/about) made the other enemy model: Otter. She also rigged the otter for animation.
 
-![otter](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Capture.PNG?raw=true)
-![otter2](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Capture2.PNG?raw=true)
-![otter move](https://github.com/team2-4/2-4/blob/master/src/media/images/development/OTTER_move_preview.gif?raw=true)
+![otter](/media/images/development/Capture.PNG)
+![otter2](/media/images/development/Capture2.PNG)
+![otter move](/media/images/development/OTTER_move_preview.gif)
 
 Sarah also made a visual narrative for the game. Here is her most recent iteration:
-![painting](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Painting1.png?raw=true)
-![painting2](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Painting2.png?raw=true)
-![painting3](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Painting3.png?raw=true)
-![painting4](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Painting4.png?raw=true)
-![painting5](https://github.com/team2-4/2-4/blob/master/src/media/images/development/Painting5.png?raw=true)
+![painting](/media/images/development/Painting1.png)
+![painting2](/media/images/development/Painting2.png)
+![painting3](/media/images/development/Painting3.png)
+![painting4](/media/images/development/Painting4.png)
+![painting5](/media/images/development/Painting5.png)
 
 These additions will also be implemented for beta.
 

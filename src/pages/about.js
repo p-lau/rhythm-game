@@ -15,6 +15,7 @@ const About = () => {
                 {PROFILES.map((e, i)=>{
                     return(!e.external ?
                         <Link className={'card'} key={i} to={e.link}>
+                            {console.log(process.env.PUBLIC_URL)}
                             <img src={e.image} alt={`${e.name}'s profile`}/>
                             <h1>{e.name}</h1>
                             <small>{e.text}</small>

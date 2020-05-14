@@ -1,9 +1,9 @@
 .home .splash {
-    background: url("https://github.com/team2-4/2-4/blob/master/src/media/images/campfire/0.png?raw=true") no-repeat fixed top center;
+    background: url("/media/images/campfire/0.png") no-repeat fixed top center;
 }
 .home header {
     height: 20rem;
-    background: url("https://raw.githubusercontent.com/team2-4/2-4/master/src/media/images/rhythmofthenight.jpg") center bottom no-repeat;
+    background: url("/media/images/rhythmofthenight.jpg") center bottom no-repeat;
     background-size: cover;
 }
 
