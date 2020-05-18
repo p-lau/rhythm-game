@@ -13,7 +13,7 @@ const PROFILES = [
         image: '/media/images/profile/pl.jpg',
         text: 'Web Developer, Sound Engineer, Audiovisual Programmer',
         external: false,
-        link: '/about'
+        link: '/about/plau'
     },
     {
         id: 'sliu',
