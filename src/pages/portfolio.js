@@ -5,6 +5,7 @@ import {useParams} from "react-router";
 export const Portfolio = () => {
     const { id } = useParams()
     const profile = PROFILES.filter(profile => profile.id === id)[0]
+    console.log(profile)
 
 
     return (
