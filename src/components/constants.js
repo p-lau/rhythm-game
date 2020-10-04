@@ -10,7 +10,7 @@ const PROFILES = [
     {
         id: 'plau',
         name: 'Panhavuth Lau',
-        image: '/media/images/profile/pl.jpg',
+        image: 'https://avatars2.githubusercontent.com/u/38850228?s=460&u=757d34163250c5cbe17b93c0a093506e912b1536&v=4',
         text: 'Web Developer, Sound Engineer, Audiovisual Programmer',
         external: false,
         link: '/about/plau'
